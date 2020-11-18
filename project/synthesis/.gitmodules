@@ -1,6 +1,0 @@
-[submodule "yosys"]
-	path = yosys
-	url = git@github.com:m4j0rt0m/rtl-develop-template-syn-yosys.git
-[submodule "quartus"]
-	path = quartus
-	url = git@github.com:m4j0rt0m/rtl-develop-template-syn-quartus.git

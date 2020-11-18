@@ -1,6 +1,0 @@
-[submodule "altera"]
-	path = altera
-	url = git@github.com:m4j0rt0m/rtl-develop-template-fpga-altera.git
-[submodule "lattice"]
-	path = lattice
-	url = git@github.com:m4j0rt0m/rtl-develop-template-fpga-lattice.git
